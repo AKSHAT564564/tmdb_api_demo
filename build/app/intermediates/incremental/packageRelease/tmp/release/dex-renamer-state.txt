@@ -1,4 +1,0 @@
-#Wed Oct 20 16:01:12 IST 2021
-base.0=C\:\\Users\\AKSHAT\\StudioProjects\\New folder\\tmdp_api_new\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
